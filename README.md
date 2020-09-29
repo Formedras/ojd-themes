@@ -1,4 +1,4 @@
-# ojd-themes
+# Themes for Open Joystick Display
 This is a small collection of themes for [Open Joystick Display](https://github.com/KernelZechs/open-joystick-display), by KernelZechs. Basically, although the built-in themes look nice, sometimes a user will want further customization. (Also the fight stick themes swap the L and R buttons.) Unfortunately, development on the project by KernelZechs has ceased, but it is an open-source project and as such can be revived by others in the future.
 
 The eventual goal here is to have a group of SVG-based themes written as simply as possible, so that others can use them directly, and also to have teaching examples that look less daunting than many of the built-in themes.
