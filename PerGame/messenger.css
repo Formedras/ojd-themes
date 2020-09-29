@@ -1,0 +1,55 @@
+.buttonStartSelect {
+    fill: none;
+}
+
+.buttonStartSelect.active {
+    fill: white !important;
+}
+
+.buttonShoulder {
+    fill: none;
+}
+
+.buttonShoulder.active {
+    fill: lightgray !important;
+}
+
+.buttonA {
+    fill: none;
+}
+
+.buttonA.active {
+    fill: green !important;
+}
+
+.buttonB {
+    fill: none;
+}
+
+.buttonB.active {
+    fill: red !important;
+}
+
+.buttonX {
+    fill: none;
+}
+
+.buttonX.active {
+    fill: blue !important;
+}
+
+.buttonY {
+    fill: none;
+}
+
+.buttonY.active {
+    fill: yellow !important;
+}
+
+.buttonDir {
+    fill: none;
+}
+
+.buttonDir.active {
+    fill: white !important;
+}

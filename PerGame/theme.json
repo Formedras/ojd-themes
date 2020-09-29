@@ -1,0 +1,29 @@
+{
+    "id": "PerGame",
+    "name": "Single-Game Themes",
+    "author": "Robert Pflieger (Formedras)",
+    "version": "0.1",
+    "copyright": "Copyright 2020 Robert Pflieger",
+    "license": "MIT License",
+    "website": "https://github.com/formedras",
+    "styles": [
+        {
+            "id": "messenger",
+            "name": "The Messenger (Devolver Digital)",
+            "file": "messenger.html",
+            "mastercss": "messenger.css"
+        },
+        {
+            "id": "messenger-stick",
+            "name": "The Messenger - On Fightstick",
+            "file": "messenger-stick.html",
+            "mastercss": "messenger.css"
+        },
+        {
+            "id": "seraph",
+            "name": "Seraph (Dreadbit) - NOT IMPLEMENTED",
+            "file": "seraph.html",
+            "mastercss": "seraph.css"
+        }
+    ]
+}
