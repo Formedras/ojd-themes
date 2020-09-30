@@ -12,7 +12,7 @@ The eventual goal here is to have a group of SVG-based themes written as simply 
 
 ## Installation/Setup
 1. If you haven't already, download Open Joystick Display from the [original author's website](http://kernelzechs.com/open-joystick-display/), and install it into its own folder.
-2. Download or clone the repository. (See the green "Code" button at the top-right of the file list.)
+2. Download or clone the repository. (See the green "Code" button at the top-right of the file list, on desktop.)
 3. If you downloaded the repository as a ZIP file, extract it to an empty folder. For Windows users, I recommend ```%USERPROFILE%\OneDrive\OJD-Themes``` or a new folder in the Open Joystick Display folder, though anywhere is fine as long as it's not overwriting or getting overwritten by anything else.
 4. Inside of Open Joystick Display, in the left column in configuration mode (the mode at startup), in the ```Profile Theme``` section, click ```Select Folder```, and navigate and select the folder you extracted the theme repository to.
 5. If done correctly, the new themes will appear at the bottom of the ```Theme:``` dropdown box, in the section ```User Themes:```.
